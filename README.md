@@ -29,6 +29,3 @@
 
   </div>
   
-  ![Snake animation](https://github.com/willslima/willslima/blob/output/github-contribution-grid-snake.svg)
-
-  
