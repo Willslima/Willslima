@@ -1,7 +1,7 @@
 ## 🤓 Opa, Willian aqui ! 🤓🤓
 
 - 🔭 Hoje eu trabalho com Noc (Network operation center)
-- 🌱 Aprendendo Javascript afundo
+- 🌱 Aprendendo Javascript afundo para fullstack
 
 <div>
   <a href="https://github.com/Willslima">
